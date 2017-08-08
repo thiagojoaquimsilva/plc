@@ -1,2 +1,2 @@
 # plc
-plc soures
+plc sources
